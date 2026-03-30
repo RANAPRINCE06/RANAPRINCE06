@@ -10,7 +10,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%28AI%29+%40+Parul+University;750%2B+DSA+Problems+Solved;Google+Cloud+Arcade+Legend+%E2%98%81%EF%B8%8F;Building+AI-Powered+Applications" alt="Typing SVG" />
 
-📍 Gujarat, India &nbsp;|&nbsp; 📧 [Email Me](mailto:your-email@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://your-portfolio.netlify.app)
+📍 Gujarat, India &nbsp;|&nbsp; 📧 [Email Me](mailto:rana.prince1806@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://ranaprince06.github.io/My-Portfolio/)
 
 </div>
 
@@ -93,9 +93,9 @@
 | ⭐ **CodeChef** | 3★ rated |
 | 🟢 **HackerRank** | 5★ in Java & C++ |
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-leetcode-username)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-cf-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-cc-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RANA_PRINCE_06/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rana_prince.1806)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rana_prince_06)
 
 ---
 
@@ -133,9 +133,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rana-0b622b32a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rana.prince1806@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ranaprince06.github.io/My-Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RANAPRINCE06)
 
 </div>
@@ -146,7 +146,7 @@
 
 ### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 
-![snake gif](https://github.com/RANAPRINCE06/RANAPRINCE06/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg)
 
 ⭐ **From [RANAPRINCE06](https://github.com/RANAPRINCE06) — If you like my work, drop a star!** ⭐
 
