@@ -67,6 +67,16 @@
 
 ---
 
+### 🏆 Virtual Job Simulations
+💼 New York Jobs CEO Council – Software Engineering  
+🏦 Wells Fargo – Software Engineering  
+🛒 Walmart USA – Advanced Software Engineering  
+💳 J.P. Morgan – Software Engineering  
+📊 Deloitte Australia – Data Analytics  
+☁️ AWS – Solutions Architecture  
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -89,7 +99,7 @@
 | Platform | Achievement |
 |----------|------------|
 | 🟡 **LeetCode** | 400+ problems · Badges: 50 Days, 100 Days, Monthly Challenges, Java, C++, Contest |
-| 🔵 **Codeforces** | Specialist rating |
+| 🔵 **Codeforces** | Expert rating |
 | ⭐ **CodeChef** | 3★ rated |
 | 🟢 **HackerRank** | 5★ in Java & C++ |
 
@@ -122,7 +132,9 @@
 
 - ☁️ Oracle Cloud Infrastructure **Foundations Associate**
 - 🤖 Oracle Cloud Infrastructure **AI Foundations Associate**
-- 🐍 IBM Python Specialist · JavaScript IT Specialist (Pearson)
+- 🐍 IBM Python Specialist  
+- 📊 IBM Statistics Specialist  
+- 🌐 JavaScript IT Specialist (Pearson)
 - 🌟 **Google Cloud Arcade Legend**
 - 🧠 Generative AI Foundations – SkillSoft
 - 📊 Gemini Certified University Student · TCS iON YUVA – AI For All
@@ -144,9 +156,7 @@
 
 <div align="center">
 
-### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
-
-![snake gif](https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg)
+### 💬 *"First, solve the problem. Then, write the code."* — John Johnso
 
 ⭐ **From [RANAPRINCE06](https://github.com/RANAPRINCE06) — If you like my work, drop a star!** ⭐
 
