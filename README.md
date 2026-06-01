@@ -21,7 +21,7 @@
 - 🎓 B.Tech in **CSE – Artificial Intelligence** @ Parul University *(CGPA: 7.95)*
 - 🏆 **Google Cloud Arcade Legend** — mastered cloud on GCP
 - 💡 Passionate about **DSA, Backend Development, AI/ML & Cloud Systems**
-- ⚔️ Solved **750+ problems** across competitive platforms (400+ on LeetCode)
+- ⚔️ Solved **1000+ problems** across competitive platforms (500+ on LeetCode)
 - 🌱 Currently deepening skills in **System Design, Spring Boot & LLM Applications**
 - 🤝 Open to **SDE Internships, Open Source Collaborations & Hackathons**
 - ⚡ Fun fact: I debug code faster with ☕ coffee and lo-fi music
