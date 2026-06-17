@@ -1,12 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=200&section=header&text=Hi%20There,%20I'm%20Prince%20Rana%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Competitive%20Programmer%20·%20Java%20Developer%20·%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=RANAPRINCE06&label=Profile%20Views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/RANAPRINCE06?label=Followers&style=social)](https://github.com/RANAPRINCE06)
-
-# Hi 👋, I'm Prince Rana
-
-### 🚀 Competitive Programmer · Java Developer · AI Enthusiast · Cloud Explorer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%28AI%29+%40+Parul+University;750%2B+DSA+Problems+Solved;Google+Cloud+Arcade+Legend+%E2%98%81%EF%B8%8F;Building+AI-Powered+Applications" alt="Typing SVG" />
 
@@ -68,23 +66,49 @@
 ---
 
 ### 🏆 Virtual Job Simulations
-💼 New York Jobs CEO Council – Software Engineering  
-🏦 Wells Fargo – Software Engineering  
-🛒 Walmart USA – Advanced Software Engineering  
-💳 J.P. Morgan – Software Engineering  
-📊 Deloitte Australia – Data Analytics  
-☁️ AWS – Solutions Architecture  
+💼 New York Jobs CEO Council – Software Engineering
+🏦 Wells Fargo – Software Engineering
+🛒 Walmart USA – Advanced Software Engineering
+💳 J.P. Morgan – Software Engineering
+📊 Deloitte Australia – Data Analytics
+☁️ AWS – Solutions Architecture
+
+---
+
+## 🐍 Contribution Snake Game
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+> 🎮 A snake that "eats" my contribution graph, animated daily by GitHub Actions. See setup notes below to activate this on your own profile repo.
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RANAPRINCE06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANAPRINCE06&layout=compact&langs_count=8&theme=tokyonight"/>
 
-</div> -->
+</div>
 
 <div align="center">
 
@@ -132,8 +156,8 @@
 
 - ☁️ Oracle Cloud Infrastructure **Foundations Associate**
 - 🤖 Oracle Cloud Infrastructure **AI Foundations Associate**
-- 🐍 IBM Python Specialist  
-- 📊 IBM Statistics Specialist  
+- 🐍 IBM Python Specialist
+- 📊 IBM Statistics Specialist
 - 🌐 JavaScript IT Specialist (Pearson)
 - 🌟 **Google Cloud Arcade Legend**
 - 🧠 Generative AI Foundations – SkillSoft
@@ -156,8 +180,10 @@
 
 <div align="center">
 
-### 💬 *"First, solve the problem. Then, write the code."* — John Johnso
+### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 
 ⭐ **From [RANAPRINCE06](https://github.com/RANAPRINCE06) — If you like my work, drop a star!** ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=120&section=footer" width="100%"/>
 
 </div>
