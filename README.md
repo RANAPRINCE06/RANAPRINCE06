@@ -1,20 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=200&section=header&text=Hi%20There,%20I'm%20Prince%20Rana%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Competitive%20Programmer%20·%20Java%20Developer%20·%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:38b6ff,100:6dd5fa&height=220&section=header&text=Hi%20There,%20I'm%20Prince%20Rana%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Competitive%20Programmer%20·%20Java%20Developer%20·%20AI%20Enthusiast%20·%20Cloud%20Explorer&descAlignY=62&descSize=16" width="100%"/>
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=RANAPRINCE06&label=Profile%20Views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/RANAPRINCE06?label=Followers&style=social)](https://github.com/RANAPRINCE06)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%28AI%29+%40+Parul+University;750%2B+DSA+Problems+Solved;Google+Cloud+Arcade+Legend+%E2%98%81%EF%B8%8F;Building+AI-Powered+Applications" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%28AI%29+%40+Parul+University;750%2B+DSA+Problems+Solved;Google+Cloud+Arcade+Legend+%E2%98%81%EF%B8%8F;Building+AI-Powered+Applications" alt="Typing SVG" />
+![Profile Views](https://komarev.com/ghpvc/?username=RANAPRINCE06&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/RANAPRINCE06?label=FOLLOWERS&style=for-the-badge&color=0e75b6)](https://github.com/RANAPRINCE06)
 
 📍 Gujarat, India &nbsp;|&nbsp; 📧 [Email Me](mailto:rana.prince1806@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://ranaprince06.github.io/My-Portfolio/)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
 ## 🧑‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 - 🎓 B.Tech in **CSE – Artificial Intelligence** @ Parul University *(CGPA: 7.95)*
 - 🏆 **Google Cloud Arcade Legend** — mastered cloud on GCP
@@ -24,9 +27,30 @@
 - 🤝 Open to **SDE Internships, Open Source Collaborations & Hackathons**
 - ⚡ Fun fact: I debug code faster with ☕ coffee and lo-fi music
 
----
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RANAPRINCE06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&include_all_commits=true&count_private=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,django,flask,mongodb,mysql,oracle,docker,aws,gcp,git,vscode&theme=dark&perline=9" />
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>📦 Click to expand badge view</b></summary>
+<br/>
 
 **Languages**
 
@@ -63,17 +87,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+</details>
 
-### 🏆 Virtual Job Simulations
-💼 New York Jobs CEO Council – Software Engineering
-🏦 Wells Fargo – Software Engineering
-🛒 Walmart USA – Advanced Software Engineering
-💳 J.P. Morgan – Software Engineering
-📊 Deloitte Australia – Data Analytics
-☁️ AWS – Solutions Architecture
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake Game
 
@@ -82,14 +98,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg" />
+  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
+<sub>🎮 A snake that eats its way through my real contribution graph, regenerated daily by GitHub Actions</sub>
+
 </div>
-
-> 🎮 A snake that "eats" my contribution graph, animated daily by GitHub Actions. See setup notes below to activate this on your own profile repo.
-
----
 
 ## 🧊 3D Contribution Graph
 
@@ -99,58 +113,82 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RANAPRINCE06&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANAPRINCE06&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+## 📊 GitHub Stats & Activity
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=RANAPRINCE06&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANAPRINCE06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6" />
+<img height="165em" src="https://github-profile-trophy.vercel.app/?username=RANAPRINCE06&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" />
+
+<img src="https://streak-stats.demolab.com?user=RANAPRINCE06&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RANAPRINCE06&theme=react-dark&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" width="100%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
 ## ⚔️ Competitive Programming
 
 | Platform | Achievement |
-|----------|------------|
+|:--|:--|
 | 🟡 **LeetCode** | 400+ problems · Badges: 50 Days, 100 Days, Monthly Challenges, Java, C++, Contest |
 | 🔵 **Codeforces** | Expert rating |
 | ⭐ **CodeChef** | 3★ rated |
 | 🟢 **HackerRank** | 5★ in Java & C++ |
 
+<div align="center">
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RANA_PRINCE_06/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rana_prince.1806)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rana_prince_06)
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
-### 🚌 [Web-Based Transportation Management System](https://github.com/RANAPRINCE06/repo-link)
-> Full-stack system supporting **40+ concurrent users** with scalable architecture
-- 🔧 Node.js · Express.js · MongoDB · Docker · RBAC
-- ✅ 15+ RESTful APIs · 35% reduction in unauthorized actions · 50% faster setup via Docker
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
 
-### 🤖 [AI Resume Analyzer & Job Matcher](https://github.com/RANAPRINCE06/repo-link)
-> AI-powered resume–job matching using **BERT, Sentence Transformers & TF-IDF**
-- 🔧 Flask · spaCy NER · Python · REST APIs
-- ✅ 40% improved job alignment · Automated skill gap analysis & recommendations
+### 🚌 [Transport MS](https://github.com/RANAPRINCE06/repo-link)
+Full-stack system supporting **40+ concurrent users**
+- 🔧 Node.js · Express · MongoDB · Docker · RBAC
+- ✅ 15+ REST APIs · 35% fewer unauthorized actions · 50% faster Docker setup
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 [AI Resume Analyzer](https://github.com/RANAPRINCE06/repo-link)
+Resume–job matching with **BERT & TF-IDF**
+- 🔧 Flask · spaCy NER · Python
+- ✅ 40% better job alignment · automated skill-gap analysis
+
+</td>
+<td width="33%" valign="top">
 
 ### 🌐 [Personal Portfolio](https://github.com/RANAPRINCE06/repo-link)
-> Responsive portfolio showcasing projects, skills & experience
-- 🔧 HTML · CSS · JavaScript · Netlify / GitHub Pages
-- ✅ Modern UI · Cross-device responsive · Optimized for performance
+Responsive portfolio site
+- 🔧 HTML · CSS · JS · Netlify
+- ✅ Modern, responsive, performance-optimized
 
----
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
+
+## 🏆 Virtual Job Simulations
+
+<div align="center">
+
+`New York Jobs CEO Council` `Wells Fargo` `Walmart USA` `J.P. Morgan` `Deloitte Australia` `AWS Solutions Architecture`
+
+</div>
 
 ## 🏅 Certifications & Achievements
 
@@ -163,7 +201,7 @@
 - 🧠 Generative AI Foundations – SkillSoft
 - 📊 Gemini Certified University Student · TCS iON YUVA – AI For All
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
 ## 🤝 Connect With Me
 
@@ -176,14 +214,12 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 
-⭐ **From [RANAPRINCE06](https://github.com/RANAPRINCE06) — If you like my work, drop a star!** ⭐
+⭐ **From [RANAPRINCE06](https://github.com/RANAPRINCE06) — if you like my work, drop a star!** ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5fa&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:38b6ff,100:6dd5fa&height=150&section=footer" width="100%"/>
 
 </div>
