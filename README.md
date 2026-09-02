@@ -1,13 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:38b6ff,100:6dd5fa&height=220&section=header&text=Hi%20There,%20I'm%20Prince%20Rana%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Competitive%20Programmer%20·%20Java%20Developer%20·%20AI%20Enthusiast%20·%20Cloud%20Explorer&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:38b6ff,100:6dd5fa&height=230&section=header&text=Hi%20There,%20I'm%20Prince%20Rana%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Backend%20%26%20Full-Stack%20Developer%20·%20AI%20Enthusiast%20·%20Cloud%20Explorer&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%28AI%29+%40+Parul+University;750%2B+DSA+Problems+Solved;Google+Cloud+Arcade+Legend+%E2%98%81%EF%B8%8F;Building+AI-Powered+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI)+%40+Parul+University;1500%2B+DSA+Problems+Solved;Google+Cloud+Arcade+Legend+%E2%98%81%EF%B8%8F;Building+AI-Powered+%26+Full-Stack+Apps;4x+Hackathon+Team+Leader" alt="Typing SVG" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RANAPRINCE06&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/RANAPRINCE06?label=FOLLOWERS&style=for-the-badge&color=0e75b6)](https://github.com/RANAPRINCE06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rana-0b622b32a)
 
-📍 Gujarat, India &nbsp;|&nbsp; 📧 [Email Me](mailto:rana.prince1806@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://ranaprince06.github.io/My-Portfolio/)
+📍 Gujarat, India &nbsp;|&nbsp; 📧 [rana.prince1806@gmail.com](mailto:rana.prince1806@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://ranaprince06.github.io/My-Portfolio/) &nbsp;|&nbsp; 📱 +91-7990212471
 
 </div>
 
@@ -19,10 +20,12 @@
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 B.Tech in **CSE – Artificial Intelligence** @ Parul University *(CGPA: 7.95)*
+- 🎓 B.Tech in **CSE – Artificial Intelligence** @ Parul University *(2024–2028, CGPA: 7.96)*
 - 🏆 **Google Cloud Arcade Legend** — mastered cloud on GCP
-- 💡 Passionate about **DSA, Backend Development, AI/ML & Cloud Systems**
-- ⚔️ Solved **1000+ problems** across competitive platforms (500+ on LeetCode)
+- 💼 Frontend Developer Intern @ **QSkill** · AI Intern @ **Codec Technologies India**
+- ⚔️ Solved **1500+ DSA problems** — Knight on LeetCode, Specialist on Codeforces, 3★ CodeChef, 5★ HackerRank
+- 🚀 Built AI-powered platforms: **RoadWatch AI**, **GigShield AI**, **StadiumX**, **TraceLock**
+- 🏅 **4x Hackathon Team Leader** — Guidewire DEVTrails, Odoo x PU, IIT Madras CoERS, Google Solution Challenge
 - 🌱 Currently deepening skills in **System Design, Spring Boot & LLM Applications**
 - 🤝 Open to **SDE Internships, Open Source Collaborations & Hackathons**
 - ⚡ Fun fact: I debug code faster with ☕ coffee and lo-fi music
@@ -42,14 +45,14 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,django,flask,mongodb,mysql,oracle,docker,aws,gcp,git,vscode&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nodejs,express,django,fastapi,flask,mongodb,mysql,oracle,docker,aws,gcp,firebase,git,vscode&theme=dark&perline=10" />
 
 </div>
 
 <br/>
 
 <details>
-<summary><b>📦 Click to expand badge view</b></summary>
+<summary><b>📦 Click to expand full badge view</b></summary>
 <br/>
 
 **Languages**
@@ -58,12 +61,14 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Web & Frameworks**
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -72,6 +77,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![OracleDB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Cloud & DevOps**
 
@@ -83,6 +89,7 @@
 **Tools & Data**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -132,20 +139,51 @@
 
 ## ⚔️ Competitive Programming
 
+<div align="center">
+
 | Platform | Achievement |
 |:--|:--|
-| 🟡 **LeetCode** | 400+ problems · Badges: 50 Days, 100 Days, Monthly Challenges, Java, C++, Contest |
-| 🔵 **Codeforces** | Expert rating |
+| 🟡 **LeetCode** | Knight (Max. Guardian) · 400+ solved · 17 badges (50/100 Days, Java, C++, Contests) |
+| 🔵 **Codeforces** | Specialist rating |
 | ⭐ **CodeChef** | 3★ rated |
 | 🟢 **HackerRank** | 5★ in Java & C++ |
-
-<div align="center">
+| 🧮 **Overall** | 1500+ problems solved across LeetCode, CodeChef & Codeforces |
+| 🥈 **PUCC ICPC-Style Contest** | Runner-Up |
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RANA_PRINCE_06/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rana_prince.1806)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rana_prince_06)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+[![Codolio](https://img.shields.io/badge/Codolio-0e75b6?style=for-the-badge&logo=readme&logoColor=white)](https://codolio.com/)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Frontend Developer Intern
+**QSkill** · Remote · Jun 2026 – Jul 2026
+- Built responsive web apps with React.js, Tailwind CSS & Bootstrap
+- Integrated REST APIs for dynamic, real-time data
+- Built reusable, device-optimized UI components
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Artificial Intelligence Intern
+**Codec Technologies India** · Remote · Jun 2026 – Jul 2026
+- Built AI-powered apps with Python & ML for real-world problems
+- Processed structured datasets to support predictive models
+- Integrated Generative AI APIs into automation workflows
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
@@ -155,15 +193,41 @@
 <tr>
 <td width="33%" valign="top">
 
-### 🚌 [Transport MS](https://github.com/RANAPRINCE06/repo-link)
-Full-stack system supporting **40+ concurrent users**
+### 🛣️ RoadWatch AI
+Real-time road hazard tracking platform
+- 🔧 React · TypeScript · Firebase
+- ✅ Gemini API for automated road-damage classification & hazard reporting
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ GigShield AI
+Parametric microinsurance platform
+- 🔧 FastAPI · Docker · AI APIs
+- ✅ Automated fraud detection & claim verification
+
+</td>
+<td width="33%" valign="top">
+
+### 🏟️ StadiumX
+Sports venue booking platform
+- 🔧 React.js · REST APIs
+- ✅ Modular components, optimized routing & state management
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🚌 Transport MS
+Full-stack system for **40+ concurrent users**
 - 🔧 Node.js · Express · MongoDB · Docker · RBAC
 - ✅ 15+ REST APIs · 35% fewer unauthorized actions · 50% faster Docker setup
 
 </td>
 <td width="33%" valign="top">
 
-### 🤖 [AI Resume Analyzer](https://github.com/RANAPRINCE06/repo-link)
+### 📄 AI Resume Analyzer
 Resume–job matching with **BERT & TF-IDF**
 - 🔧 Flask · spaCy NER · Python
 - ✅ 40% better job alignment · automated skill-gap analysis
@@ -171,8 +235,8 @@ Resume–job matching with **BERT & TF-IDF**
 </td>
 <td width="33%" valign="top">
 
-### 🌐 [Personal Portfolio](https://github.com/RANAPRINCE06/repo-link)
-Responsive portfolio site
+### 🌐 Personal Portfolio
+Responsive personal portfolio site
 - 🔧 HTML · CSS · JS · Netlify
 - ✅ Modern, responsive, performance-optimized
 
@@ -182,7 +246,16 @@ Responsive portfolio site
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
-## 🏆 Virtual Job Simulations
+## 🏆 Hackathons (as Team Leader)
+
+| Hackathon | Project |
+|:--|:--|
+| Guidewire DEVTrails 2026 | **GigShield AI** |
+| Odoo x Parul University 2026 | **Traveloop** |
+| Road Safety Hackathon 2026 — IIT Madras CoERS | **RoadWatch AI** |
+| Google Solution Challenge 2026 (Hack2Skills) | **TraceLock** |
+
+## 🧪 Virtual Job Simulations
 
 <div align="center">
 
@@ -190,16 +263,39 @@ Responsive portfolio site
 
 </div>
 
+- **NY Jobs CEO Council** — Resolved Python billing defects, added new invoicing features
+- **Wells Fargo** — Designed core data entities & ER diagrams for portfolio management
+- **Walmart USA** — Solved system design challenges, optimized DB schema performance
+- **J.P. Morgan** — Built REST APIs, simulated Kafka-based event-driven backends
+- **Deloitte Australia** — Analyzed datasets with Python, built business-insight dashboards
+- **AWS** — Designed scalable cloud architecture using EC2, S3 & IAM
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
+
 ## 🏅 Certifications & Achievements
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 - ☁️ Oracle Cloud Infrastructure **Foundations Associate**
 - 🤖 Oracle Cloud Infrastructure **AI Foundations Associate**
 - 🐍 IBM Python Specialist
 - 📊 IBM Statistics Specialist
 - 🌐 JavaScript IT Specialist (Pearson)
+
+</td>
+<td width="50%" valign="top">
+
 - 🌟 **Google Cloud Arcade Legend**
 - 🧠 Generative AI Foundations – SkillSoft
-- 📊 Gemini Certified University Student · TCS iON YUVA – AI For All
+- 🎓 Gemini Certified University Student
+- 🧩 Intro to Machine Learning – Microsoft
+- 📘 TCS iON YUVA – AI For All
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
 
