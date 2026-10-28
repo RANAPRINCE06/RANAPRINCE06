@@ -1,286 +1,283 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:38b6ff,100:6dd5fa&height=220&section=header&text=Hi%20There,%20I'm%20Prince%20Rana%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Backend%20%26%20AI%20Developer%20·%20Competitive%20Programmer%20·%20Cloud%20Explorer&descAlignY=62&descSize=16" width="100%"/>
+PRINCE RANA
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(AI)+%40+Parul+University;1500%2B+DSA+Problems+Solved;Google+Cloud+Arcade+Legend+%E2%98%81%EF%B8%8F;Building+AI-Powered+%26+Full-Stack+Apps" alt="Typing SVG" />
+Software Engineer · Backend & AI Systems · Competitive Programmer
 
-![Profile Views](https://komarev.com/ghpvc/?username=RANAPRINCE06&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/RANAPRINCE06?label=FOLLOWERS&style=for-the-badge&color=0e75b6)](https://github.com/RANAPRINCE06)
+Building practical software with reliable APIs, thoughtful architecture, and AI-powered workflows.
 
-📍 Gujarat, India &nbsp;|&nbsp; 📧 [Email Me](mailto:rana.prince1806@gmail.com) &nbsp;|&nbsp; 🌐 [Portfolio](https://ranaprince06.github.io/My-Portfolio/)
+<a href="https://github.com/RANAPRINCE06">
+  <img src="https://img.shields.io/badge/GitHub-RANAPRINCE06-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/prince-rana-0b622b32a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/RANA_PRINCE_06/">
+  <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://ranaprince06.github.io/My-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
+</a>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
-
-## 🧑‍💻 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 🎓 B.Tech in **CSE – Artificial Intelligence** @ Parul University *(CGPA: 7.96)*
-- 🏆 **Google Cloud Arcade Legend** — mastered cloud on GCP
-- 💼 Ex-Intern: **Frontend Dev @ QSkill** · **AI Intern @ Codec Technologies India**
-- ⚔️ Solved **1500+ DSA problems** — Knight on LeetCode (Max. Guardian), Specialist on Codeforces, 3★ CodeChef, 5★ HackerRank
-- 🥈 Runner-Up, **PUCC ICPC-Style Programming Contest**
-- 🚀 Led teams in 4 hackathons: Guidewire DEVTrails, Odoo x Parul University, IIT Madras CoERS, Google Solution Challenge
-- 🌱 Currently deepening skills in **System Design, Spring Boot & LLM-powered Applications**
-- 🤝 Open to **SDE Internships, Open Source Collaborations & Hackathons**
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RANAPRINCE06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6&icon_color=0e75b6&include_all_commits=true&count_private=true" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,fastapi,django,mongodb,mysql,oracle,docker,aws,gcp,git,firebase,vscode&theme=dark&perline=9" />
+📍 Gujarat, India   ·   ✉️ Email
 
 </div>
 
-<br/>
+01 / Profile
 
-<details>
-<summary><b>📦 Click to expand badge view</b></summary>
-<br/>
+I'm a B.Tech Computer Science & Engineering (Artificial Intelligence) student at Parul University (2024–2028, CGPA 7.96) interested in backend engineering, full-stack development, cloud infrastructure, and AI-enabled applications.
 
-**Languages**
+I enjoy taking ideas from problem definition to implementation—designing APIs, connecting databases, building user-facing experiences, and adding safeguards that make automated workflows more dependable.
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+Engineering focus: Java, Python, REST APIs, backend systems, and database-backed applications.
 
-**Backend & Full Stack**
+AI focus: Gemini integrations, multi-agent workflows, and AI-assisted decision-making.
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+Cloud & delivery: Google Cloud, Oracle Cloud Infrastructure, Docker, and Kubernetes.
 
-**Databases**
+Problem solving: 1,500+ DSA problems solved across platforms.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![OracleDB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+Community & competition: Google Cloud Arcade Legend and Runner-Up in the PUCC ICPC-Style Programming Contest.
 
-**Cloud & DevOps**
+Currently strengthening my skills in backend engineering, system design, and production-minded AI applications.
 
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Tools & Data**
-
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
-
-## 🐍 Contribution Snake Game
+02 / Core Toolkit
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg" />
-  <img alt="A snake eating through my GitHub contribution graph" src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+Languages
 
-<sub>🎮 A snake that eats its way through my real contribution graph, regenerated daily by GitHub Actions</sub>
+Backend & Frontend
+
+Data & Infrastructure
+
+Java · Python · C++ · JavaScript
+
+FastAPI · Node.js · Express.js · Django · React.js
+
+MySQL · MongoDB · Oracle Database
+
+OOP · Data Structures & Algorithms
+
+HTML · CSS · REST APIs · JSON · Postman
+
+Docker · Kubernetes · GCP · OCI · Git
 
 </div>
 
-## 🧊 3D Contribution Graph
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,fastapi,django,mysql,mongodb,docker,kubernetes,gcp,git,github&perline=8" alt="Technology stack"/>
+</p>
+
+03 / Selected Projects
+
+PayRecover AI — Autonomous Revenue Recovery Agent
+
+FastAPI · React · Gemini · PostgreSQL · Redis · Razorpay Test Mode
+
+An AI-assisted payment recovery system designed to investigate failed payments, select recovery strategies, and execute controlled actions.
+
+Built a multi-agent workflow for strategy generation and recovery execution.
+
+Added financial guardrails, role-based access control, idempotency, auditability, and human-approval workflows.
+
+Integrated Razorpay Test Mode and payment-status verification.
+
+Validation reported in resume: 132/132 backend tests passing.
+
+RoadWatch AI — Road Safety Platform
+
+React · TypeScript · Firebase · Gemini API
+
+A road-hazard reporting and tracking platform that helps structure road-damage analysis and repair workflows.
+
+Integrated Gemini REST API for road-damage classification and hazard reporting.
+
+Built reusable frontend components and API-driven data flows.
+
+Used JSON request/response handling to connect analysis with reporting workflows.
+
+Repository
+
+StadiumX — Sports Venue Booking Platform
+
+React.js · REST APIs · Component-Based UI
+
+A responsive platform for sports venue discovery and booking.
+
+Built modular, reusable UI components.
+
+Connected REST APIs for venue booking, scheduling, and user-data management.
+
+Worked on routing and state management to support booking flows.
+
+Repository
+
+More Project Work
+
+GigShield AI — Parametric microinsurance concept for gig workers; developed as part of Guidewire DEVTrails.
+
+Traveloop — Travel-planning platform developed for Odoo × Parul University.
+
+TraceLock — Project submitted to the Google Solution Challenge 2026 (Hack2Skills).
+
+Project links and demos can be added to each entry once the final public URLs are available.
+
+04 / Industry Experience
+
+Frontend Developer Intern — QSkill
+
+Remote · June 2026 – July 2026
+
+Developed responsive web interfaces using React.js, Tailwind CSS, and Bootstrap.
+
+Integrated REST APIs to fetch and display dynamic data.
+
+Created reusable UI components and improved cross-device responsiveness.
+
+Used Git and GitHub for version control and collaboration.
+
+Artificial Intelligence Intern — Codec Technologies India
+
+Remote · June 2026 – July 2026
+
+Developed Python-based AI applications for practical problem-solving tasks.
+
+Processed and analyzed structured datasets to support predictive workflows.
+
+Integrated Generative AI APIs into application logic.
+
+Collaborated on scalable application functionality using software-engineering practices.
+
+05 / Competitive Programming
+
+Platform
+
+Achievement
+
+LeetCode
+
+Knight; 1,500+ problems solved across platforms; 17 badges reported
+
+Codeforces
+
+Specialist
+
+CodeChef
+
+3-star
+
+HackerRank
+
+5-star in Java & C++
+
+PUCC ICPC-Style Programming Contest
+
+Runner-Up
+
+<p align="center">
+  <a href="https://leetcode.com/u/RANA_PRINCE_06/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"/></a>
+  <a href="https://codeforces.com/profile/rana_prince.1806"><img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile"/></a>
+  <a href="https://www.codechef.com/users/rana_prince_06"><img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef profile"/></a>
+</p>
+
+06 / Hackathons & Team Leadership
+
+Guidewire DEVTrails 2026 — GigShield AI · Team Leader
+
+Odoo × Parul University 2026 — Traveloop · Team Leader
+
+IIT Madras CoERS Road Safety Hackathon 2026 — RoadWatch AI · Team Leader
+
+Google Solution Challenge 2026 (Hack2Skills) — TraceLock
+
+07 / Virtual Job Simulations
+
+Organization
+
+Focus
+
+New York Jobs CEO Council
+
+Python billing-system defects and invoice features
+
+Wells Fargo
+
+Data entities and ER-diagram design
+
+Walmart USA
+
+System design and relational database schema
+
+J.P. Morgan
+
+REST APIs and Kafka-based event-driven systems
+
+Deloitte Australia
+
+Python data analysis and dashboards
+
+AWS Solutions Architecture
+
+Cloud architecture using EC2, S3, and IAM
+
+08 / Certifications & Learning
+
+Google Cloud Arcade Legend Tier
+
+Oracle Cloud Infrastructure Foundations Associate
+
+Oracle Cloud Infrastructure AI Foundations Associate
+
+AWS Academy Graduate — Cloud Foundations
+
+Google Cloud Gen AI Academy APAC Edition — Cohort 2
+
+Gemini Certified University Student
+
+IBM Python Specialist
+
+IBM Statistics 101
+
+Generative AI Foundations — Skillsoft
+
+Introduction to Machine Learning Concepts — Microsoft
+
+JavaScript IT Specialist — Pearson
+
+TCS iON — YUVA AI for All
+
+GDG Build with AI — PromptWars Virtual Challenges 1 & 2
+
+HTML/CSS Project — Infosys
+
+09 / GitHub Activity
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RANAPRINCE06&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANAPRINCE06&layout=compact&hide_border=true&theme=transparent" alt="Most used languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=RANAPRINCE06&hide_border=true&theme=transparent" alt="GitHub contribution streak"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
+10 / Education
 
-## 📊 GitHub Stats & Activity
+Parul University — B.Tech, Computer Science & Engineering (Artificial Intelligence)
+2024–2028 · CGPA: 7.96
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANAPRINCE06&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0e75b6" />
-<img height="165em" src="https://github-profile-trophy.vercel.app/?username=RANAPRINCE06&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8" />
-
-<img src="https://streak-stats.demolab.com?user=RANAPRINCE06&theme=tokyonight&hide_border=true&background=0d1117&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RANAPRINCE06&theme=react-dark&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
-
-## 💼 Experience
-
-```text
-┌──[ developer@career ]──[ ~/experience ]
-│
-├── Frontend Developer Intern — QSkill (Remote)                   Jun–Jul 2026
-│   └─ React.js, Tailwind CSS, Bootstrap · REST API integration
-│
-└── Artificial Intelligence Intern — Codec Technologies India      Jun–Jul 2026
-    └─ Python, ML pipelines, Generative AI API integration
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
-
-## ⚔️ Competitive Programming
-
-| Platform | Achievement |
-|:--|:--|
-| 🟡 **LeetCode** | Knight (Max. Guardian) · 17 badges across Java, C++, Problem Solving, Contests, Monthly Challenges |
-| 🔵 **Codeforces** | Specialist rating |
-| ⭐ **CodeChef** | 3★ rated |
-| 🟢 **HackerRank** | 5★ in Java & C++ |
-| 🥈 **PUCC ICPC-Style Contest** | Runner-Up |
+Relevant coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks.
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RANA_PRINCE_06/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rana_prince.1806)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rana_prince_06)
+Let's build something useful.
 
-</div>
+I'm open to software engineering internships, collaborative projects, open-source contributions, and hackathons.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
+<a href="https://www.linkedin.com/in/prince-rana-0b622b32a">LinkedIn</a> ·
+<a href="https://github.com/RANAPRINCE06">GitHub</a> ·
+<a href="https://ranaprince06.github.io/My-Portfolio/">Portfolio</a> ·
+<a href="mailto:rana.prince1806@gmail.com">Email</a>
 
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🛣️ [RoadWatch AI](https://github.com/RANAPRINCE06/RoadWatch-AI)
-Real-time road hazard tracking platform
-- 🔧 React · TypeScript · Firebase · Gemini API
-- ✅ Automated road damage classification & hazard reporting via Gemini REST API
-
-</td>
-<td width="33%" valign="top">
-
-### 🏟️ [StadiumX](https://github.com/RANAPRINCE06/StadiumX)
-Sports venue booking platform
-- 🔧 React.js · REST APIs · modular components
-- ✅ Optimized routing & state management for booking/scheduling flows
-
-</td>
-<td width="33%" valign="top">
-
-### 🛡️ [GigShield AI](https://github.com/RANAPRINCE06/GigShield-AI)
-Parametric microinsurance platform
-- 🔧 FastAPI · Docker · AI fraud detection
-- ✅ Automated claims processing with AI-based fraud & claim verification
-
-</td>
-</tr>
-</table>
-
-<!-- Update repo links above with your exact repository names -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
-
-## 🏁 Hackathons (as Team Leader)
-
-```text
-🏆 Guidewire DEVTrails 2026 — GigShield AI
-🏆 Odoo x Parul University 2026 — Traveloop
-🏆 Road Safety Hackathon 2026, IIT Madras CoERS — RoadWatch AI
-🏆 Google Solution Challenge 2026 (Hack2Skills) — TraceLock
-```
-
-## 🏢 Virtual Job Simulations
-
-<div align="center">
-
-`New York Jobs CEO Council` `Wells Fargo` `Walmart USA` `J.P. Morgan` `Deloitte Australia` `AWS Solutions Architecture`
-
-</div>
-
-## 🏅 Certifications & Achievements
-
-- ☁️ Oracle Cloud Infrastructure **Foundations Associate**
-- 🤖 Oracle Cloud Infrastructure **AI Foundations Associate**
-- 🐍 IBM Python Specialist
-- 🧠 Generative AI Foundations – SkillSoft
-- 🌐 JavaScript IT Specialist (Pearson)
-- 🖥️ HTML-CSS Landing Page Design – Infosys
-- 🤖 Introduction to Machine Learning Concepts – Microsoft
-- 🌟 **Google Cloud Arcade Legend**
-- 🎓 Gemini Certified University Student · TCS iON YUVA – AI For All
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
-
-## 🎮 Developer Status
-
-<div align="center">
-
-```text
-╭────────────────────────────────────╮
-│ 🎮 DEVELOPER STATUS (playful, non-official) │
-│                                    │
-│ Problems Solved: 1500+ 🧩          │
-│ Hackathons Led:  4 🏁              │
-│ Internships:     2 💼              │
-│ Streak:          🔥 see live stats above │
-│                                    │
-│ Next Quest: Ship something new     │
-╰────────────────────────────────────╯
-```
-
-</div>
-
-<details>
-<summary>🎮 Click to start the challenge</summary>
-
-Challenge: Can you spot which language I reach for first when solving DSA? 👀
-Hint: It's the same one my LeetCode Knight badge is in.
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0e75b6,100:6dd5fa&height=4&section=header" width="100%"/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-rana-0b622b32a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rana.prince1806@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://ranaprince06.github.io/My-Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RANAPRINCE06)
-
-</div>
-
-<div align="center">
-
-### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
-
-<!-- sudo hire-me -->
-
-⭐ **From [RANAPRINCE06](https://github.com/RANAPRINCE06) — if you like my work, drop a star!** ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:38b6ff,100:6dd5fa&height=150&section=footer" width="100%"/>
+<sub>“First, solve the problem. Then, write the code.”</sub>
 
 </div>
