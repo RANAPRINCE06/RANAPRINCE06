@@ -63,10 +63,10 @@ I'm pursuing a B.Tech in Computer Science & Engineering (Artificial Intelligence
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub stats" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub stats" />
 
-<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
-<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Languages per repo" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Languages per repo" />
 
 </div>
 
@@ -291,8 +291,8 @@ flowchart LR
 
 <div align="center">
 
-<img width="48%" src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
-<img width="48%" src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+<img width="48%" src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+<img width="48%" src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 
 <br/>
 
@@ -316,7 +316,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D GitHub contribution landscape" />
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="96%" alt="3D GitHub contribution landscape" />
 
 </div>
 
