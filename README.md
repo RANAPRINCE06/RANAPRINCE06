@@ -2,15 +2,22 @@
 
 <img width="100%" alt="header" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:09090B,35:312E81,70:6D28D9,100:06B6D4&text=PRINCE%20RANA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20BACKEND%20%7C%20AI%20SYSTEMS&descAlignY=59&descSize=17&animation=fadeIn" />
 
+<img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=45&lines=Backend+%26+AI+Systems+Engineer;1500%2B+DSA+Problems+Solved;FastAPI+%C2%B7+React+%C2%B7+Gemini+%C2%B7+GCP;Building+reliable+AI+applications" />
+
+<br/>
+
 <a href="https://github.com/RANAPRINCE06"><img src="https://img.shields.io/badge/GitHub-RANAPRINCE06-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/prince-rana-0b622b32a"><img src="https://img.shields.io/badge/LinkedIn-LET%27S%20CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/RANA_PRINCE_06/"><img src="https://img.shields.io/badge/LeetCode-KNIGHT-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://ranaprince06.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-EXPLORE-7C3AED?style=for-the-badge&logo=firefoxbrowser&logoColor=white" /></a>
+<a href="mailto:rana.prince1806@gmail.com"><img src="https://img.shields.io/badge/Email-GET%20IN%20TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=RANAPRINCE06&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/RANAPRINCE06?style=for-the-badge&color=0891B2&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/RANAPRINCE06?style=for-the-badge&color=7C3AED&label=STARS" />
+<img src="https://img.shields.io/github/last-commit/RANAPRINCE06/RANAPRINCE06?style=for-the-badge&color=0891B2&label=LAST%20UPDATE" />
 
 <br/><br/>
 
@@ -18,13 +25,26 @@
 
 I build backend systems and AI-powered applications, with a strong foundation in problem-solving and full-stack development.
 
+<sub>
+<a href="#snapshot">Snapshot</a> ·
+<a href="#tech">Tech</a> ·
+<a href="#projects">Projects</a> ·
+<a href="#experience">Experience</a> ·
+<a href="#cp">Competitive</a> ·
+<a href="#analytics">Analytics</a> ·
+<a href="#hackathons">Hackathons</a> ·
+<a href="#certs">Certifications</a> ·
+<a href="#contact">Contact</a>
+</sub>
+
 </div>
 
+<a id="snapshot"></a>
 ## ◈ 01 — Developer Snapshot
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ### Hey, I'm Prince 👋
 
@@ -39,13 +59,14 @@ I'm pursuing a B.Tech in Computer Science & Engineering (Artificial Intelligence
 - 🎯 **Current interests:** Backend engineering, system design, and reliable AI applications
 
 </td>
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RANAPRINCE06&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&ring_color=8B5CF6" width="100%" />
+<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="GitHub stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RANAPRINCE06&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" width="100%" />
+<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commits" />
+<img src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Languages per repo" />
 
 </div>
 
@@ -53,11 +74,21 @@ I'm pursuing a B.Tech in Computer Science & Engineering (Artificial Intelligence
 </tr>
 </table>
 
+### 🔭 Right now
+
+| Focus | What I'm doing |
+|---|---|
+| ⚙️ Backend | Clean APIs, databases, guardrails, and testing |
+| 🤖 AI | Reliable multi-agent workflows with human-in-the-loop controls |
+| 🏗️ System design | Idempotency, auditability, and failure-safe flows |
+| 🧠 DSA | Consistent problem solving on LeetCode, Codeforces and CodeChef |
+
+<a id="tech"></a>
 ## ◈ 02 — Tech Universe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,react,nodejs,express,fastapi,django,mysql,mongodb,oracle,docker,kubernetes,gcp,aws,git,github,vscode,firebase&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,react,nodejs,express,fastapi,django,mysql,mongodb,postgres,oracle,docker,kubernetes,gcp,aws,git,github,vscode,firebase,postman,tailwind&theme=dark&perline=12" />
 
 </div>
 
@@ -100,6 +131,7 @@ I'm pursuing a B.Tech in Computer Science & Engineering (Artificial Intelligence
 </tr>
 </table>
 
+<a id="projects"></a>
 ## ◈ 03 — Featured Builds
 
 <table>
@@ -112,6 +144,7 @@ I'm pursuing a B.Tech in Computer Science & Engineering (Artificial Intelligence
 <img src="https://img.shields.io/badge/AI-Multi--Agent-7C3AED?style=flat-square" />
 <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Tests-132%2F132%20passing-22C55E?style=flat-square" />
 
 An AI-assisted payment recovery platform that investigates failed payments, recommends recovery strategies, and executes controlled actions.
 
@@ -180,6 +213,26 @@ A hackathon project concept focused on parametric microinsurance for gig-economy
 <sub>Other hackathon work: <b>Traveloop</b> — travel planning · <b>TraceLock</b> — Google Solution Challenge 2026</sub>
 </div>
 
+<details>
+<summary><b>🧭 PayRecover AI — high-level flow</b></summary>
+
+<br/>
+
+```mermaid
+flowchart LR
+    A["Failed payment"] --> B["Investigate"]
+    B --> C["Strategy agents (Gemini)"]
+    C --> D{"Guardrails and RBAC"}
+    D -->|"within limits"| E["Execute action"]
+    D -->|"needs review"| F["Human approval"]
+    F --> E
+    E --> G["Verify payment status"]
+    G --> H[("Audit log")]
+```
+
+</details>
+
+<a id="experience"></a>
 ## ◈ 04 — Engineering Experience
 
 <table>
@@ -211,6 +264,7 @@ A hackathon project concept focused on parametric microinsurance for gig-economy
 </tr>
 </table>
 
+<a id="cp"></a>
 ## ◈ 05 — Competitive Programming Arena
 
 <div align="center">
@@ -232,16 +286,17 @@ A hackathon project concept focused on parametric microinsurance for gig-economy
 | HackerRank | 5-star in Java & C++ |
 | PUCC | Runner-Up — ICPC-Style Programming Contest |
 
+<a id="analytics"></a>
 ## ◈ 06 — GitHub Analytics Lab
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RANAPRINCE06&bg_color=0D1117&color=C4B5FD&line=22D3EE&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img width="48%" src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+<img width="48%" src="https://raw.githubusercontent.com/RANAPRINCE06/RANAPRINCE06/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
 
 <br/>
 
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=RANAPRINCE06&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=8" />
-<img width="49%" src="https://streak-stats.demolab.com?user=RANAPRINCE06&theme=transparent&hide_border=true&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE" />
+<img width="80%" src="https://streak-stats.demolab.com?user=RANAPRINCE06&theme=transparent&hide_border=true&ring=8B5CF6&fire=F97316&currStreakLabel=22D3EE" alt="Streak stats" />
 
 </div>
 
@@ -265,6 +320,7 @@ A hackathon project concept focused on parametric microinsurance for gig-economy
 
 </div>
 
+<a id="hackathons"></a>
 ## ◈ 07 — Hackathons & Leadership
 
 | Event | Project | Role |
@@ -292,6 +348,7 @@ A hackathon project concept focused on parametric microinsurance for gig-economy
 
 </details>
 
+<a id="certs"></a>
 ## ◈ 09 — Certifications & Learning
 
 <details>
@@ -324,6 +381,7 @@ B.Tech — Computer Science & Engineering (Artificial Intelligence) · 2024–20
 
 **Relevant coursework:** Data Structures & Algorithms · Object-Oriented Programming · Database Management Systems · Operating Systems · Computer Networks
 
+<a id="contact"></a>
 <div align="center">
 
 <img width="100%" alt="footer" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,50:6D28D9,100:09090B" />
